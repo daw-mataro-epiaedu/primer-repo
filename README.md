@@ -1,2 +1,11 @@
-# primer-repo
-Primer repo de classe M08
+# Our First Web Project
+
+This is our first web project, created as part of our web development course. The project is a simple website that showcases our skills in HTML, CSS, and JavaScript.
+
+## Getting Started
+
+To get started with the project, simply clone the repository and open the `index.html` file in your web browser.
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
