@@ -9,3 +9,4 @@ To get started with the project, simply clone the repository and open the `index
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+```
