@@ -27,6 +27,7 @@ cd your-repo
 ```
 
 - [Carlos Alonso-Martinez](carlos.martinez@mataro.epiadu.cat)
+- Copilot
 
 ## License
 
