@@ -11,7 +11,20 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-## Authors
+````html
+## Authors<form action="/submit-form" method="POST">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea>
+
+  <button type="submit">Submit</button>
+</form>
+```
 
 - [Carlos Alonso-Martinez](carlos.martinez@mataro.epiadu.cat)
 
