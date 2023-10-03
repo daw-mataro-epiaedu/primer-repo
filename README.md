@@ -10,3 +10,11 @@ To get started with the project, simply clone the repository and open the `index
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
+
+## Authors
+
+- [Carlos Alonso-Martinez](carlos.martinez@mataro.epiadu.cat)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
